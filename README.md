@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=CHOIKANG'S%20GITHUB&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=YongJin'S%20GITHUB&fontSize=50)
 
 <H3>STACKS</H3>
 <div align="left">
