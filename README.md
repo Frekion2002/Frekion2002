@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
   
 </div>
-<div align="left">
-  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
-</div>
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=CHOIKANG&bg_color=60,0d1117,ffffff&title_color=000000&text_color=000000"
